@@ -1,3 +1,5 @@
+# Ogni riga preceduta da '#' sono commenti, le righe sotto sono pattern d'esclusione
+
 # Compiled class file
 *.class
 
